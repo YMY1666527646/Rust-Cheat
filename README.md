@@ -2,7 +2,7 @@
 
 
 
-<img src="https://cdn.discordapp.com/attachments/788015189525790761/935172348523450368/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.webp">/
+<img src="https://cdn.discordapp.com/attachments/788015189525790761/935173049836240936/setup.gif">/
 
 
 # Pictures:
