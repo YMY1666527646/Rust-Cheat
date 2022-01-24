@@ -1,6 +1,8 @@
 # NarkozProject
 Setup
-
+https://www.youtube.com/watch?v=GB4XW_TsHqA Key Auth Login
+x64 Relase 
+The drive is not already detected
 <img src="https://cdn.discordapp.com/attachments/788015189525790761/935173049836240936/setup.gif">/
 
 Cheat Menu
